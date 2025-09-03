@@ -1,5 +1,5 @@
 #include <stdio.h>
- int main()  // virgo
+ int main()  
 {
     int num1,num2,suma;
     printf("ingrese un numero:");
@@ -14,4 +14,5 @@
     return 0;
     
 }
+
 
